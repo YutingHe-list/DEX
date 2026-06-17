@@ -4,8 +4,11 @@
 [![Paper](https://img.shields.io/badge/DEX_paper-SIGKDD-purple)]()
 [![MedVerse dataset](https://img.shields.io/badge/MedVerse_dataset-processing-green)](https://huggingface.co/datasets/YutingHe-list/MedVerse)
 
-> :loudspeaker: **DEX** paper - **[Learning Emergent Modular Representations in Multi-modality Medical Vision Foundation Models.](https://arxiv.org/abs/2605.21861)**,
-> [Yuting He](https://yutinghe-list.github.io/), [Chenyu You](https://chenyuyou.me/), [Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li),
+---
+
+> :loudspeaker: **DEX** paper -<br/>
+> **[Learning Emergent Modular Representations in Multi-modality Medical Vision Foundation Models.](https://arxiv.org/abs/2605.21861)**,<br/> 
+> [Yuting He](https://yutinghe-list.github.io/), [Chenyu You](https://chenyuyou.me/), [Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li),<br/> 
 > In: ACM KDD 2026
 
 ## News
