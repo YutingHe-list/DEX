@@ -37,6 +37,20 @@ A modular representation learning framework that reformulates the backbone into 
 
 <p align="center"><img width="100%" src="figs/framework.png" />
 
+---
+
+## 💡 TL;DR
+
+> **DEX = Monolithic Backbone → Director-Experts Modular Network**
+> From “one shared model learns all modalities” → **“experts specialize, director coordinates.”**
+>
+> ✔️ Non-IID-aware
+> ✔️ Modality-specialized
+> ✔️ Cross-modality transferable
+> ✔️ Emergent modular representation learning
+
+---
+
 ## Reference
 If you use this code or use our pre-trained weights for your research, please cite our papers:
 ```
