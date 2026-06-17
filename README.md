@@ -37,8 +37,6 @@ A modular representation learning framework that reformulates the backbone into 
 
 <p align="center"><img width="100%" src="figs/framework.png" />
 
----
-
 ## 💡 TL;DR
 
 > **DEX = Monolithic Backbone → Director-Experts Modular Network**
