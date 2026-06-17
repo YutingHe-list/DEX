@@ -19,12 +19,12 @@
 
 Multi-modality medical vision foundation models (MVFMs) aim to learn universal representations across heterogeneous clinical imaging modalities. However, the pronounced Non-IID statistics among modalities lead to conflicting gradients and modality-dominant representation collapse, limiting cross-modality generalization. We propose **D**irector-**EX**perts (**DEX**), a modular network for general-purpose multi-modality medical vision representation learning. DEX balances expert specialization and director coordination to learn emergent modular representations from heterogeneous medical images. Pre-trained on **MedVerse**, a large-scale benchmark with over 4 million images across 10 modalities, DEX directly generalizes to diverse downstream tasks and achieves strong transferability across 26 clinical applications.
 
-<p align="center"><img width="100%" src="figs/background.png" />
+<p align="center"><img width="80%" src="figs/background.png" />
 
 ## 🔍 3. Research Problem
 Multi-modality medical vision foundation models are expected to learn universal representations across diverse imaging modalities, but heterogeneous medical images exhibit strong Non-IID statistics due to different imaging physics, resolutions, and acquisition protocols. When trained with a monolithic self-supervised objective, these conflicting modality distributions can cause gradient interference and representation collapse toward modality-dominant shortcuts, limiting the model’s transferability across clinical tasks.
 
-<p align="center"><img width="100%" src="figs/problem.png" />
+<p align="center"><img width="80%" src="figs/problem.png" />
 
 ## 🧩 4. The DEX Framework (Director-EXperts)
 
