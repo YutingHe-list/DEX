@@ -10,7 +10,7 @@
 > [Yuting He](https://yutinghe-list.github.io/), [Chenyu You](https://chenyuyou.me/), [Shuo Li](https://engineering.case.edu/about/school-directory/shuo-li),<br/> 
 > In: ACM KDD, 2026
 
-## 1. News
+## 🧭 1. News
 
 - 2026.05: **DEX** paper has been accepted by SIGKDD 2026 [[Paper](https://arxiv.org/abs/2605.21861)]
 - 2026.05: **TAMP** has been released! Welcome to use!
@@ -49,7 +49,7 @@ A modular representation learning framework that reformulates the backbone into 
 
 ---
 
-## Reference
+## 💡 Reference
 If you use this code or use our pre-trained weights for your research, please cite our papers:
 ```
 @InProceedings{he2026learning,
@@ -60,7 +60,7 @@ If you use this code or use our pre-trained weights for your research, please ci
 }
 ```
 
-## Ongoing
+## 🛣️ Ongoing
 
 - [ ] Release pre-training weights of DEX.
 - [x] Release pre-training and adaptation codes of DEX.
