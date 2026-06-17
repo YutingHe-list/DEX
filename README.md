@@ -35,7 +35,7 @@ A modular representation learning framework that reformulates the backbone into 
 * 🎯 **Director Coordinates Shared Feature Structure** — Aggregates expert knowledge through Group Exponential Moving Average (GEMA) and aligns expert outputs to a shared latent space for cross-modality integration.
 * 🏗️ **DEX Modular Network Architecture** — Hierarchically stacks DEX modules with self-supervised, alignment, and balance losses, progressively evolving modality-specific features into generalizable modular representations.
 
-<p align="center"><img width="80%" src="figs/framework.png" />
+<p align="center"><img width="100%" src="figs/framework.png" />
 
 ## Reference
 If you use this code or use our pre-trained weights for your research, please cite our papers:
