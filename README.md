@@ -63,8 +63,8 @@ If you use this code or use our pre-trained weights for your research, please ci
 ## 🛣️ Ongoing
 
 - [ ] Release pre-training weights of DEX.
+- [ ] Release MedVerse dataset with 4.97 million multi-modality images.
 - [x] Release pre-training and adaptation codes of DEX.
-- [x] Release MedVerse dataset with 4.97 million multi-modality images.
 
 ## 💖 Acknowledgements
 
